@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0085-maximal-rectangle](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0485-max-consecutive-ones](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0085-maximal-rectangle](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Manacher
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -138,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
