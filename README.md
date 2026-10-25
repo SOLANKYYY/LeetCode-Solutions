@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0085-maximal-rectangle](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0485-max-consecutive-ones](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0090-subsets-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
