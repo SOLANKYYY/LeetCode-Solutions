@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0045-jump-game-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0485-max-consecutive-ones](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 | [0085-maximal-rectangle](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
 ## Manacher
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0045-jump-game-ii) |
 ## Trie
 |  |
 | ------- |
