@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,14 +162,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0095-unique-binary-search-trees-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SOLANKYYY/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
